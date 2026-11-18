@@ -50,8 +50,3 @@ DNS A: 93.184.216.34
   [WARN] [DNS] CAA Record: No CAA record found; any trusted CA can issue certificates
 ```
 
-## CV / Resume Bullet Ideas
-
-* *Built a concurrent Python CLI security auditor (`ssl`, `socket`, DNS-over-HTTPS) to evaluate domain TLS cipher strength, certificate expiration, and SPF/DMARC/CAA spoofing protections with automated JSON reporting.*
-
-* *Implemented offline unit tests with `unittest.mock` covering TLS handshake verification, RFC 7208 SPF validation, and 0–100 security posture scoring.*
